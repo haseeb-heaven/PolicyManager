@@ -1,0 +1,44 @@
+
+{
+  "policies": [
+    {
+      "id": "1",
+      "policyName": "Life Protection Plus",
+      "policyNumber": "LP-2024-001234",
+      "status": "Active",
+      "nextPremiumDue": "2025-08-15",
+      "startDate": "2020-08-15",
+      "maturityDate": "2045-08-15",
+      "sumAssured": "₹10,00,000",
+      "premiumFrequency": "Annual",
+      "lastPremiumPaid": "2024-08-15",
+      "nextPremiumAmount": "₹25,000"
+    },
+    {
+      "id": "2",
+      "policyName": "Health Shield Pro",
+      "policyNumber": "HS-2023-005678",
+      "status": "Active",
+      "nextPremiumDue": "2025-09-10",
+      "startDate": "2023-09-10",
+      "maturityDate": "2028-09-10",
+      "sumAssured": "₹5,00,000",
+      "premiumFrequency": "Monthly",
+      "lastPremiumPaid": "2025-07-10",
+      "nextPremiumAmount": "₹3,500"
+    },
+    {
+      "id": "3",
+      "policyName": "Motor Comprehensive",
+      "policyNumber": "MC-2024-009876",
+      "status": "Lapsed",
+      "nextPremiumDue": "2025-07-20",
+      "startDate": "2024-07-20",
+      "maturityDate": "2025-07-20",
+      "sumAssured": "₹8,50,000",
+      "premiumFrequency": "Annual",
+      "lastPremiumPaid": "2024-07-20",
+      "nextPremiumAmount": "₹18,500"
+    }
+  ]
+}

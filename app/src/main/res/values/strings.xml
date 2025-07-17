@@ -1,0 +1,22 @@
+
+<resources>
+    <string name="app_name">PolicyManager</string>
+    <string name="my_policies">My Policies</string>
+    <string name="home">Home</string>
+    <string name="policies">Policies</string>
+    <string name="claims">Claims</string>
+    <string name="profile">Profile</string>
+    <string name="read_more">Read More</string>
+    <string name="read_less">Read Less</string>
+    <string name="policy_number">Policy Number</string>
+    <string name="status">Status</string>
+    <string name="next_premium_due">Next Premium Due</string>
+    <string name="start_date">Start Date</string>
+    <string name="maturity_date">Maturity Date</string>
+    <string name="sum_assured">Sum Assured</string>
+    <string name="premium_frequency">Premium Frequency</string>
+    <string name="last_premium_paid">Last Premium Paid</string>
+    <string name="next_premium_amount">Next Premium Amount</string>
+    <string name="active">Active</string>
+    <string name="lapsed">Lapsed</string>
+</resources>
