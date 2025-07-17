@@ -1,0 +1,69 @@
+# .gitignore for Android Kotlin project
+
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java/Kotlin class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+build/
+captures/
+output/
+
+# Gradle files
+.gradle/
+build/
+!gradle-wrapper.jar
+gradle-app.setting
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Proguard
+proguard/*.txt
+proguard-rules.pro
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+*.jks
+
+# Keystore files
+*.keystore
+*.jks
+
+# Log/Debug files
+*.log
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Kotlin specific
+*.kts~
+*.kts.bak
+
+# Others
+*.swp
+*.swo
+
+# NDK
+obj/
+
+# Test results
+test-results/
+
