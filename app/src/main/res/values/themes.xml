@@ -1,9 +1,22 @@
-
-<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
-    <style name="Theme.PolicyManager" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    <style name="Theme.PolicyManager" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Brand colors -->
+        <item name="colorPrimary">@color/dark_blue</item>
+        <item name="colorPrimaryVariant">@color/dark_blue</item>
+
+        <item name="colorSecondary">@color/light_red</item>
+        <item name="colorSecondaryVariant">@color/light_red</item>
+
+        <!-- Surface and text/icon contrast -->
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="colorSurface">@color/white</item>
+        <item name="colorOnSurface">@color/black</item>
+
+        <!-- Background -->
+        <item name="android:colorBackground">@color/white</item>
+
+        <!-- Status bar (optional) -->
+        <item name="android:statusBarColor" >@android:color/transparent</item>
     </style>
 </resources>
