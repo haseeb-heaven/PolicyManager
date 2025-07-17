@@ -34,7 +34,7 @@ The app displays insurance policies in expandable cards on a dashboard. Users ca
 4.  **Set up Emulator/Device:**
     * Ensure you have an Android emulator set up with an Android API level of 35 or higher, or a physical Android device connected to your computer with USB debugging enabled.
 5.  **Build and Run:**
-    * Click the "Run" button in Android Studio.
+    * Click the Run button in Android Studio.
     * Select your emulator or connected device as the target.
     * The app will be built, installed, and launched on the selected target.
 
