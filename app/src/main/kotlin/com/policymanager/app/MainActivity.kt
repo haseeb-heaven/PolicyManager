@@ -12,10 +12,11 @@ import androidx.compose.ui.Modifier
 import com.policymanager.app.ui.navigation.PolicyManagerNavigation
 import com.policymanager.app.ui.theme.PolicyManagerTheme
 
+// MainActivity is the entry point of the app.
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        enableEdgeToEdge()
+        enableEdgeToEdge() // Enables edge-to-edge mode for the app.
         setContent {
             PolicyManagerTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
