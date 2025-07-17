@@ -19,6 +19,25 @@ The app displays insurance policies in expandable cards on a dashboard. Users ca
 - **Policy information display** (name, number, dates, amounts)
 - **Smooth animations** for enhanced user experience
 
+## How to Run
+
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/haseeb-heaven/PolicyManager.git
+    ```
+2.  **Open in Android Studio:**
+    * Launch Android Studio.
+    * Select "Open an Existing Project".
+    * Navigate to the cloned `policymanager` directory and open it.
+3.  **Gradle Sync:**
+    * Android Studio will automatically start a Gradle sync. Wait for it to complete. This will download all the required dependencies.
+4.  **Set up Emulator/Device:**
+    * Ensure you have an Android emulator set up with an Android API level of 35 or higher, or a physical Android device connected to your computer with USB debugging enabled.
+5.  **Build and Run:**
+    * Click the "Run" button in Android Studio.
+    * Select your emulator or connected device as the target.
+    * The app will be built, installed, and launched on the selected target.
+
 ## Key Technologies
 
 - Kotlin
