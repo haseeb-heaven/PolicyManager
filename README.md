@@ -38,6 +38,19 @@ The app displays insurance policies in expandable cards on a dashboard. Users ca
     * Select your emulator or connected device as the target.
     * The app will be built, installed, and launched on the selected target.
 
+## App Screenshots
+
+![App Screenshot 1](resources/app_screenshot_1.png)
+![App Screenshot 2](resources/app_screenshot_2.png)
+![App Screenshot 3](resources/app_screenshot_3.png)
+
+## Changelog
+
+### Version 1.1
+
+- Added app screenshots.
+- Organized image resources.
+
 ## Key Technologies
 
 - Kotlin
